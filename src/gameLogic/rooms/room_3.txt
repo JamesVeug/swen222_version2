@@ -1,0 +1,8 @@
+room3
+W W W D W W W E
+W C F X F T W E
+W F F X X X D E
+W F F F F F W E
+W F F F W W W E
+W T M F W - - E
+W W W W W - - E

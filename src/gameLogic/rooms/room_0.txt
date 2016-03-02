@@ -1,0 +1,9 @@
+room0
+W W W D W W W - E
+W F F F F M W W E
+W F F F F F T W E
+D F F Z F F F W E
+W F F F F F F W E
+W F F F F F F W E
+W N W W W W F W E
+W W W - - W W W E

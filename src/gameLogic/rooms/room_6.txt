@@ -1,0 +1,20 @@
+room6
+- - - - - - - - - - - W F F F W - - - E
+- - - - - - - - - - - W F F F W - - - E
+- - - - - - - - - - - W F F F W - - - E
+- - - - - - - - - - - W F F F W - - - E
+- - - - W W W W W W W C F F F C W W W E
+- - - - W F F F T F F X F F F X F Z W E
+- - - - W F F F F F F X F F F X F F W E
+- - - - W F F F F F F X F F F X F F W E
+- - - - W F F F F F F X F F F X F M W E
+- - - - W F F F F M F X F F F X F F W E
+- - - - W T F F F F F X F F F X F T W E
+W W W W C X X X X X X X F F F X F F W E
+F F F F F F F F F F F F F F F X F F W E
+W W W W C F F F F F F F F F F X F F W E
+F F F F F F F F F F F F F F F X F F W E
+W W W W C X X X X X X X X X X X F M W E
+- - - - W F F F F F F F F F F F F F W E
+- - - - W F T F M F F F F F F M F T W E
+- - - - W W W w w W W W W D W W W W W E

@@ -1,0 +1,10 @@
+room4
+W W W D W W W W W E
+W T F F M F F T W E
+D F F F F F F F D E
+W F F F F F F F W E
+W W W W W W W W W E
+W T F F F F F T W E
+W F F F F F F F W E
+W F F F F M F F W E
+W W D W W W W W W E

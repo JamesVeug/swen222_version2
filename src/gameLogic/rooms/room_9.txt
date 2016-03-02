@@ -1,0 +1,8 @@
+room9
+C W W W W W C E
+W F F X F F W E
+W F F X F F W E
+W M F X F M W E
+W F F X F F W E
+W F F X F F W E
+C W W D W W C E

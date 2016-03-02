@@ -1,0 +1,16 @@
+room10
+W W W D W W W W W W W D W W W E
+W C W F F T F M F T F F W C W E
+W T W F F F F F F F F F W T W E
+W F W W W W W W W W W W W F W E
+W F F F F F F F F F F F F F W E
+D X X X X X X X X X X X X X D E
+W F F F X F F F F F X F F F W E
+W W W F X F F F F F X F W W W E
+W F W F X F F F F F X F W F W E
+W M W F X F F F F F X F W M W E
+W F W F X F F F F F X F W F W E
+W W W F X F F F F F X F W W W E
+W T F F X F F F F F X F F T W E
+W C T F X F F F F F X F T C W E
+W W W W W W W W W W D W W W W E

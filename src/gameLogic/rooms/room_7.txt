@@ -1,0 +1,8 @@
+room7
+W W W W W W - E
+W F F F T W W E
+W F F F F F W E
+W M F F X X D E
+W F F F F F W E
+W F F F T W W E
+W W W W W W - E

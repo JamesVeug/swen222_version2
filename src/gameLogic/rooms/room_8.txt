@@ -1,0 +1,8 @@
+room8
+W W W - - - - E
+W T W W W W W E
+W F F F F F W E
+W T F X X X D E
+W F F X F F W E
+W T F X F T W E
+W W W D W W W E

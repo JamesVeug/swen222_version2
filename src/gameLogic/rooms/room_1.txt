@@ -1,0 +1,12 @@
+room1
+- - W W W D W W W W C E
+- C W F F X F T F T W E
+W W X X X X X X X F W E
+W T X C F F F F X W W E
+W F X F F F F F X W - E
+D X X F F Z F F X W - E
+W F X F F F F F X W - E
+W T X F F F F F X W W E
+W F X X X X X X X F W E
+W T F W W W W W F T W E
+C W W W - - - W W W C E
